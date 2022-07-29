@@ -1,0 +1,9 @@
+
+Date:29/07/2022
+Time of editing:19:54:56
+1.testing!!
+2.testing multiple activites at once
+
+Time of editing:19:56:39
+1.Date and time is stored for each activity
+2.Date is stored only once per day . However time is stored for every time we run the program
